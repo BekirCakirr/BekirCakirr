@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+AI+tools+that+think+%F0%9F%A7%A0;Shipping+code+that+matters+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+AI+tools+that+think+%F0%9F%A7%A0;Shipping+code+that+matters+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -80,12 +80,6 @@ class BekirCakir:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BekirCakirr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirCakirr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=e6edf3" height="170"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=BekirCakirr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=e34c26&currStreakLabel=1f6feb" />
 
 <br/><br/>
@@ -112,11 +106,11 @@ class BekirCakir:
 
 <div align="center">
 
-[![AU-Library-System](https://github-readme-stats.vercel.app/api/pin/?username=BekirCakirr&repo=AU-Library-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3)](https://github.com/BekirCakirr/AU-Library-System)
-&nbsp;&nbsp;
-[![Shiffy](https://github-readme-stats.vercel.app/api/pin/?username=BekirCakirr&repo=Shiffy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3)](https://github.com/BekirCakirr/Shiffy)
-
-[![AImpact-Haxcrew](https://github-readme-stats.vercel.app/api/pin/?username=BekirCakirr&repo=AImpact-Haxcrew&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3)](https://github.com/BekirCakirr/AImpact-Haxcrew)
+| Project | Description | Tech |
+|:---|:---|:---|
+| [**AU-Library-System**](https://github.com/BekirCakirr/AU-Library-System) | University-level library management system with admin & user interfaces, book tracking, and statistics | ASP.NET MVC5 |
+| [**Shiffy**](https://github.com/BekirCakirr/Shiffy) | Meta-YTU Hackathon Project | TypeScript |
+| [**AImpact-Haxcrew**](https://github.com/BekirCakirr/AImpact-Haxcrew) | PitchDrill - AI-powered pitch practice tool | Python |
 
 </div>
 
