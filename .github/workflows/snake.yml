@@ -25,5 +25,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation [skip ci]"
+          author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
