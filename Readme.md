@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm Bekir Çakır 👋
-
-**AI & Machine Learning Engineer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Bekir%20%C3%87ak%C4%B1r&fontSize=40&fontColor=e6edf3&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekir-cakir-)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BekirCakirr)
@@ -116,5 +114,7 @@ class BekirCakir:
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
 
 </div>
