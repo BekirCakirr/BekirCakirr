@@ -112,29 +112,18 @@ class BekirCakir:
 | [**Shiffy**](https://github.com/BekirCakirr/Shiffy) | Meta-YTU Hackathon Project | TypeScript |
 | [**AImpact-Haxcrew**](https://github.com/BekirCakirr/AImpact-Haxcrew) | PitchDrill - AI-powered pitch practice tool | Python |
 
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-| Badge | Status |
-|:---:|:---:|
-| 🦈 Pull Shark | ✅ Earned |
-| 👯 Pair Extraordinaire | ✅ Earned |
-| ⭐ Starstruck | 🎯 Target: 100 ⭐ |
-| 🧠 Galaxy Brain | 🎯 Target: Discussions |
 
 </div>
 
----
+
+
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+<br><br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
+### *"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="200%"/>
 
 </div>
