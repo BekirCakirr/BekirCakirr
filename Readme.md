@@ -33,58 +33,20 @@ class BekirCakir:
 
 ---
 
-### 🧠 Focus Areas
-
-| AI & Machine Learning | Software Engineering |
-|:---|:---|
-| LLM Fine-tuning & Prompt Engineering | Full-Stack Web Development |
-| RAG (Retrieval-Augmented Generation) | API Design & MCP Protocol |
-| NLP & Natural Language Processing | CLI Tool Development |
-| AI Agent Architectures | Cloud & DevOps (Docker, CI/CD) |
-| Data Science & Analytics | Open-Source Project Management |
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
+<!--
+  Bu kartlar şu an github-readme-stats'in PUBLIC instance'ını kullanıyor (hemen çalışsın diye).
+  Kendi fork'unu Vercel'e deploy ettikten sonra, aşağıdaki İKİ URL'de geçen
+  "github-readme-stats.vercel.app" kısmını kendi Vercel domaininle değiştir.
+  Örn: "bekir-readme-stats.vercel.app"
+  (Self-host'ta count_private/include_all_commits ve özel katkılar için Vercel'de PAT_1 env var'ı gerekir.)
+-->
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BekirCakirr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=e34c26&currStreakLabel=1f6feb" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BekirCakirr&theme=github-dark&hide_border=true&bg_color=0d1117&color=e6edf3&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb" width="95%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BekirCakirr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&bg_color=0d1117" alt="Bekir Çakır - GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirCakirr&layout=compact&langs_count=8&hide_border=true&title_color=1f6feb&text_color=e6edf3&bg_color=0d1117" alt="Bekir Çakır - Top Languages" />
 
 </div>
 
