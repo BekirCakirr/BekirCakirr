@@ -36,19 +36,24 @@ class BekirCakir:
 ### 📊 GitHub Stats
 
 <!--
-  Bu kartlar şu an github-readme-stats'in PUBLIC instance'ını kullanıyor (hemen çalışsın diye).
-  Kendi fork'unu Vercel'e deploy ettikten sonra, aşağıdaki İKİ URL'de geçen
-  "github-readme-stats.vercel.app" kısmını kendi Vercel domaininle değiştir.
-  Örn: "bekir-readme-stats.vercel.app"
-  (Self-host'ta count_private/include_all_commits ve özel katkılar için Vercel'de PAT_1 env var'ı gerekir.)
+  Kartlar şu an github-readme-stats'in PUBLIC instance'ını kullanıyor.
+  "Something went wrong / Could not fetch total commits" hatasi = public instance rate-limit
+  (özellikle include_all_commits parametresi tetikliyor; o yüzden kaldırıldı).
+  KALICI ÇÖZÜM: kendi fork'unu Vercel'e deploy edip aşağıdaki İKİ URL'de geçen
+  "github-readme-stats.vercel.app" kısmını kendi Vercel domaininle değiştir (örn. "bekir-readme-stats.vercel.app").
+  Self-host'ta Vercel'e PAT_1 env var'ı eklersen &include_all_commits=true&count_private=true geri eklenebilir.
 -->
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BekirCakirr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&bg_color=0d1117" alt="Bekir Çakır - GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirCakirr&layout=compact&langs_count=8&hide_border=true&title_color=1f6feb&text_color=e6edf3&bg_color=0d1117" alt="Bekir Çakır - Top Languages" />
-
-</div>
+<table align="center">
+<tr>
+<td>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BekirCakirr&show_icons=true&hide_border=true&title_color=1f6feb&icon_color=1f6feb&text_color=e6edf3&bg_color=0d1117" alt="Bekir Çakır - GitHub Stats" />
+</td>
+<td>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekirCakirr&layout=compact&langs_count=8&hide_border=true&title_color=1f6feb&text_color=e6edf3&bg_color=0d1117" alt="Bekir Çakır - Top Languages" />
+</td>
+</tr>
+</table>
 
 ---
 
